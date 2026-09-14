@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>Kuikkusongu</AssemblyName>
+    <TargetFramework>net6.0-windows10.0.19041.0</TargetFramework>
+    <UseWinRT>true</UseWinRT>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>
